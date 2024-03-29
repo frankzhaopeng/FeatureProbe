@@ -1,1 +1,0 @@
-CREATE INDEX event_index ON `event`(`sdk_key`,`toggle_key`,`start_date`, `end_date`);

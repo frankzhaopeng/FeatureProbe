@@ -1,5 +1,0 @@
-[toolchain]
-version = "1.64.0"
-components = [
-  "cargo",
-]
